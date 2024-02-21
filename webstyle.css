@@ -1,0 +1,126 @@
+body {
+  background-color: bisque;
+  box-shadow: 12px -2px white;
+  /* height: 100vh; */
+  padding: 2px;
+  max-width: 940px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+body {
+  display: block;
+  margin-top: 8px;
+  text-align: center;
+  font-size: 16px;
+  font-variant-caps: titling-caps;
+}
+html {
+  font-size: 18px;
+  font-family: fantasy;
+}
+html {
+  color: darkolivegreen;
+}
+html {
+  background-color: bisque;
+  font-size: 16px;
+  font-family: fantasy;
+}
+
+body {
+  background-color: bisque;
+  box-shadow: 0 0 12px -2px black;
+  /* height: 100vh; */
+  padding: 0;
+  max-width: 960px;
+  margin: 0 auto;
+}
+a {
+  color: darkolivegreen;
+  text-decoration: none;
+  font-size: x-large;
+  margin: 0 5px;
+}
+
+nav {
+  box-shadow: 0 0 12px -2px black;
+  position: fixed;
+  left: 0;
+  right: 0;
+  align-items: center;
+  background-color: burlywood;
+  color: darkolivegreen;
+  display: flex;
+  height: 80px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+main {
+  min-height: 100vh;
+  padding: 85px 24px 96px;
+  box-shadow: 0 0 12px -2px black;
+  color: darkolivegreen;
+  font-family: "Courier New", Courier, monospace;
+}
+
+footer {
+  background-color: burlywood;
+  color: darkolivegreen;
+  height: 70px;
+  padding: 10px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  box-shadow: 0 0 12px -2px black;
+}
+
+footer a {
+  margin: 0 25px;
+}
+
+footer .media-link {
+  height: 45px;
+}
+
+.active {
+  border-bottom: 1px solid #c0c0c0;
+}
+
+main > img {
+  height: 200px;
+  width: 300px;
+  float: center;
+  margin: 20px 0 20px 20px;
+}
+
+main .quote {
+  font-family: "Courier New", Courier, monospace;
+  color: darkolivegreen;
+  font-size: 100px;
+  font-weight: 100;
+  text-shadow: 1px 1px 2px black;
+  text-align: center;
+  margin-top: 4em;
+}
+
+section {
+  font-family: "fantasy", cursive;
+  color: darkolivegreen;
+  font-size: 50px;
+  font-weight: 100;
+  text-shadow: 1px 1px 2px antiquewhite;
+  text-align: center;
+  margin-top: 4em;
+  border-top: 1px solid #bbb;
+  font-size: 20px;
+  text-align: center;
+}
+
+html {
+}
